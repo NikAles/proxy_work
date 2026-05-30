@@ -1,0 +1,213 @@
+socks5://123:123@8.210.81.59:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@8.217.7.229:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@8.210.173.98:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@8.217.94.83:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@8.217.183.205:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@8.217.208.190:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@8.217.213.161:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@8.217.241.104:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@8.217.253.137:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@8.218.189.99:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@8.218.252.190:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@8.218.48.61:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@8.218.153.191:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@8.218.165.212:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@8.217.182.75:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@8.218.240.247:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@43.100.43.112:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@43.100.43.114:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@47.76.78.163:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@47.76.232.129:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@47.239.113.246:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@47.239.69.212:3060#🇭🇰HK_@WangCai_8
+socks5://123:123@47.238.142.24:3060#🇭🇰HK_@WangCai_8
+socks5://47.76.141.50:11082#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
+socks5://socks5:socks5@8.210.36.147:5555#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
+socks5://111:111@101.33.74.115:20000#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+socks5://47.238.106.120:666#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
+socks5://123:123@47.237.11.125:8888#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
+socks5://70.166.65.160:4145#🇺🇸US_@WangCai_8
+socks5://74.119.147.209:4145#🇺🇸US_@WangCai_8
+socks5://72.195.114.169:4145#🇺🇸US_@WangCai_8
+socks5://socks5:socks5@38.47.96.16:5555/#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
+socks5://98.181.137.80:4145#🇺🇸US_@WangCai_8
+socks5://68.71.245.206:4145#🇺🇸US_@WangCai_8
+socks5://72.37.217.3:4145#🇺🇸US_@WangCai_8
+socks5://98.188.47.150:4145#🇺🇸US_@WangCai_8
+socks5://68.1.210.189:4145#🇺🇸US_@WangCai_8
+socks5://68.71.249.153:48606#🇺🇸US_@WangCai_8
+socks5://72.195.34.58:4145#🇺🇸US_@WangCai_8
+socks5://72.195.34.60:27391#🇺🇸US_@WangCai_8
+socks5://67.201.39.14:4145#🇺🇸US_@WangCai_8
+socks5://72.214.108.67:4145#🇺🇸US_@WangCai_8
+socks5://72.195.114.184:4145#🇺🇸US_@WangCai_8
+socks5://98.175.31.195:4145#🇺🇸US_@WangCai_8
+socks5://72.195.34.59:4145#🇺🇸US_@WangCai_8
+socks5://98.188.47.132:4145#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
+socks5://68.1.210.163:4145#🇺🇸US_@WangCai_8
+socks5://47.104.252.143:1021#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://47.116.171.204:55602#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://106.15.195.138:1021#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://110.89.134.242:34543#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://110.89.134.242:35239#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://120.77.255.149:1021#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://47.122.95.150:1021#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://67.201.35.145:4145#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
+socks5://47.109.96.196:1021#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://39.104.21.27:1100#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://8.155.25.89:1122#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://124.222.242.254:1100#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://106.15.195.138:1100#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://120.77.255.149:1100#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://47.109.96.196:1100#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://47.119.177.101:1100#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://110.89.134.242:31946#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://110.89.134.242:39440#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://47.108.248.8:1100#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://101.201.181.113:18189#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://proxy:proxy@193.188.21.202:1080#%F0%9F%87%A9%F0%9F%87%AADE_%40WangCai_8
+socks5://test123:test123@185.145.99.41:1080#%F0%9F%87%B3%F0%9F%87%B1NL_WangCai_8
+socks5://47.122.95.150:1100#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%2020363%20t.me%2Frjsxrd
+socks5://47.109.97.68:1145#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+socks5://test123:test123@91.148.134.67:1080#%F0%9F%87%A8%F0%9F%87%B4CO_%40WangCai_8
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#356.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%205post-gate.x5.ru%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#🏳️ UNKNOWN VLESS 504%20t.me%2Frjsxrd
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#@teleking_vip%20t.me%2Frjsxrd
+vless://d511e429-e32b-46a7-ac07-a0fffa9b634c@46.149.71.46:9443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=43dcff53849b81e6&sni=rutube.ru#323.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20rutube.ru%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
+socks5://admin:admin@47.239.116.165:1080#%F0%9F%87%AD%F0%9F%87%B0HK_%40WangCai_8
+vless://d511e429-e32b-46a7-ac07-a0fffa9b634c@46.149.71.46:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rutube.ru&fp=qq&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=43dcff53849b81e6&packetEncoding=xudp#272.%20VLESS%20%7C%20SNI%3A%20rutube.ru%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
+socks5://test123:test123@185.47.252.222:1080#%F0%9F%87%B5%F0%9F%87%AAPE_%40WangCai_8
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#4Jadi-7754%20t.me%2Frjsxrd
+socks5://47.92.246.30:1145#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#@teleking_vip%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#[286ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+vless://d511e429-e32b-46a7-ac07-a0fffa9b634c@46.149.71.46:9443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=43dcff53849b81e6&sni=rutube.ru&fp=chrome&alpn=http/1.1&headerType=none#266.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20rutube.ru%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?type=grpc&security=reality&fp=chrome&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87&sni=5post-gate.x5.ru#0431 | 🇷🇺 Russia | 🏳️ SNI-X5 | VLESS | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
+socks5://45.8.114.19:3334#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#[298ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+vless://rootface@216.234.141.24:443?type=tcp&security=reality&sni=blog.api.www.cloudflare.com&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&flow=&fp=chrome#2476.%20%F0%9F%87%BA%F0%9F%87%B8%20VLESS%20%7C%20SNI%3A%20blog.api.www.cloudflare.com%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
+socks5://888888:888888@8.222.180.85:1080#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#[329ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#[297ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+trojan://Tel:Arshiacomplus@45.154.96.35:14456?type=ws&host=oof.acp.us.ci&path=/jdjsjeje&security=tls&fp=firefox&sni=oof.acp.us.ci&alpn=h2,http/1.1#🇫🇷 Франция 3 | [BL]%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23457%20t.me%2Frjsxrd
+socks5://47.99.179.180:1145#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+vless://rootface@216.234.141.24:443?type=tcp&security=reality&sni=blog.api.www.cloudflare.com&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&flow=&fp=chrome#2330.%20%F0%9F%87%BA%F0%9F%87%B8%20VLESS%20%7C%20SNI%3A%20blog.api.www.cloudflare.com%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd%20t.me%2Frjsxrd
+vless://rootface@216.234.141.24:443?type=tcp&security=reality&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sni=blog.api.www.cloudflare.com#1330 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
+socks5://124.222.242.254:1021#%F0%9F%87%A8%F0%9F%87%B3CN_%40WangCai_8
+vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?type=grpc&security=reality&fp=chrome&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&sid=deadbeef&sni=www.microsoft.com&serviceName=GrpcFuckRKN#[1242ms Германия DE 🇩🇪 @vlesstrojan]%20t.me%2Frjsxrd
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%2318%20t.me%2Frjsxrd
+vless://rootface@216.234.141.24:443?type=tcp&security=reality&sni=blog.api.www.cloudflare.com&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&flow=&fp=chrome# By EbraSha%20t.me%2Frjsxrd
+vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=www.sony.com&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&sid=e6bb2b5c0ab6fd47#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%E2%80%94%20%2361%20t.me%2Frjsxrd
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?type=grpc&security=reality&encryption=none&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&fp=chrome&sni=5post-gate.x5.ru&sid=1fad87# By EbraSha%20t.me%2Frjsxrd
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?type=grpc&security=reality&fp=chrome&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87&sni=5post-gate.x5.ru&mode=gun#0115 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
+vless://Fluffy_VPN-757700MA@51.250.106.197:443?type=tcp&security=reality&encryption=none&pbk=gLwECcibrJ-wErHzfYbPzMDVu6960VNuXUhjOQ3rUQk&fp=chrome&sni=max.ru&flow=xtls-rprx-vision#19.%20%F0%9F%87%B3%F0%9F%87%B1%20VLESS%20%7C%20SNI%3A%20max.ru%20%7C%20CIDR%3A%20Yandex%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList%20%2347%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?type=grpc&security=reality&encryption=none&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&fp=chrome&sni=5post-gate.x5.ru&sid=1fad87# By EbraSha%20t.me%2Frjsxrd
+vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?type=grpc&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&sid=deadbeef&serviceName=GrpcFuckRKN#%F0%9F%87%AA%F0%9F%87%BA%20%F0%9F%93%B6LTE%7C%40xex_vpn%20%23412%20t.me%2Frjsxrd
+vless://eb3fe4a6-831c-5153-9493-5d97b28276f7@51.250.106.197:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=gLwECcibrJ-wErHzfYbPzMDVu6960VNuXUhjOQ3rUQk#1008.%20%F0%9F%87%B3%F0%9F%87%B1%20VLESS%20%7C%20SNI%3A%20max.ru%20%7C%20CIDR%3A%20Yandex%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
+vless://f4bad870-4b45-4a46-bec6-d05fa31df1cb@fr.clgate.network:443?mode=stream-up&path=/&security=reality&encryption=none&pbk=r2B2KwffHmyjWrmwKmI0o3uW9UEsn2l_Ko0UmyTjKgM&host=m.twitch.tv&fp=chrome&type=xhttp&sni=m.twitch.tv#[1379ms Франция FR 🇫🇷 @vlesstrojan]%20t.me%2Frjsxrd
+vless://rootface@216.234.141.24:443?encryption=none&security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&type=tcp&headerType=none#Full #044 @FreeCFGHub%20t.me%2Frjsxrd
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?type=grpc&security=reality&fp=chrome&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87&sni=5post-gate.x5.ru#[442ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+trojan://humanity@216.24.57.7:443?type=ws&security=tls&path=/assignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#[344ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?type=grpc&security=reality&fp=chrome&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87&sni=5post-gate.x5.ru#0250 | 🇷🇺 Russia | 🏳️ SNI-X5 | VLESS | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#🏳️ UNKNOWN VLESS 272%20t.me%2Frjsxrd
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#[315ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+socks5://admin:admin@64.227.104.105:1080#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
+socks5://proxy:proxy@140.238.246.3:1080#%F0%9F%87%AE%F0%9F%87%B3IN_%40WangCai_8
+socks5://admin:admin@158.180.91.51:5555#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?type=grpc&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&sid=deadbeef&serviceName=GrpcFuckRKN#%F0%9F%87%AA%F0%9F%87%BA%20%F0%9F%93%B6LTE%7C%40xex_vpn%20%2349%20t.me%2Frjsxrd
+vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?type=grpc&security=reality&encryption=none&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&fp=chrome&sni=www.sony.com&sid=e6bb2b5c0ab6fd47#%F0%9F%87%B7%F0%9F%87%BA%20%5BVL%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%237619%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+socks5://socks5:socks5@131.186.30.212:5555#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?allowInsecure=0&sni=yazhou10.dynu.net#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29%20t.me%2Frjsxrd
+socks5://socks5:socks5@158.180.76.11:5555#%F0%9F%87%B0%F0%9F%87%B7KR_%40WangCai_8
+socks5://test123:test123@38.110.1.149:1080#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
+socks5://test123:test123@23.158.200.158:1080#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
+socks5://admin:admin@143.198.85.89:1080#%F0%9F%87%B8%F0%9F%87%ACSG_%40WangCai_8
+socks5://username:password@34.211.114.22:1080#%F0%9F%87%BA%F0%9F%87%B8US_%40WangCai_8
+socks5://152.69.205.252:1021#%F0%9F%87%AF%F0%9F%87%B5JP_%40WangCai_8
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20621795%20t.me%2Frjsxrd
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%87%B7%F0%9F%87%BA%20LTE%2031%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20232751%20t.me%2Frjsxrd
+vless://eb3fe4a6-831c-5153-9493-5d97b28276f7@51.250.106.197:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=gLwECcibrJ-wErHzfYbPzMDVu6960VNuXUhjOQ3rUQk#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23178%20t.me%2Frjsxrd
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%2312%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20372953%20t.me%2Frjsxrd
+trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?allowInsecure=0&sni=yazhou10.dynu.net#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29%20t.me%2Frjsxrd
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?type=grpc&security=reality&encryption=none&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&fp=chrome&sni=5post-gate.x5.ru&sid=1fad87#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20858597%20t.me%2Frjsxrd
+vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?type=grpc&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&sid=deadbeef&serviceName=GrpcFuckRKN#%F0%9F%87%AA%F0%9F%87%BA%20%F0%9F%93%B6LTE%7C%40xex_vpn%20%23668%20t.me%2Frjsxrd
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.238.120.124#%F0%9F%87%A9%F0%9F%87%AA%20%5BTR%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%232805%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+trojan://Tel:Arshiacomplus@45.154.96.35:14456?type=ws&host=oof.acp.us.ci&path=/jdjsjeje&security=tls&fp=firefox&sni=oof.acp.us.ci&alpn=h2,http/1.1#🇫🇷 Франция 4 | [BL]%20t.me%2Frjsxrd
+vless://2244d9e4-dc80-4c61-9362-dde0afd034dd@104.17.115.113:443?encryption=none&security=tls&sni=hs.qoogl.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hs.qoogl.workers.dev&path=%2F#%F0%9F%87%AA%F0%9F%87%BA%20%F0%9F%93%B6LTE%7C%40xex_vpn%20%23453%20t.me%2Frjsxrd
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?type=grpc&security=reality&fp=chrome&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87&sni=5post-gate.x5.ru#0116 | 🇷🇺 Russia | 🏳️ SNI-X5 | VLESS | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
+vless://0dc3fe97-73e3-4cc2-89a7-331e66540365@46.149.71.46:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.avito.ru&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=67ccfc02&fp=edge&alpn=http/1.1&headerType=none#260.%20VLESS%20%7C%20SNI%3A%20www.avito.ru%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
+vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@104.168.30.161:443?fp=chrome&security=tls&sni=proxy.wastech.org&type=raw#[1214ms US US  @vlesstrojan]%20t.me%2Frjsxrd
+vless://eb3fe4a6-831c-5153-9493-5d97b28276f7@51.250.106.197:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=gLwECcibrJ-wErHzfYbPzMDVu6960VNuXUhjOQ3rUQk#[351ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?type=grpc&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&sid=deadbeef&serviceName=GrpcFuckRKN#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%20%20%5B01%5D%20%20MIFA%20t.me%2Frjsxrd
+vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@ger-nnn.prostosetup.org:443?security=reality&encryption=none&pbk=y3ZMu-ium5mBqE_h3xJ66vT0Z6HCIlTDti9emCQjDjw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=bcb6b0217a1206b3#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%93%B6LTE%7C%40xex_vpn%20%23885%20t.me%2Frjsxrd
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yastatic.net&fp=chrome&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab#%F0%9F%87%AB%F0%9F%87%AE%20%20Finland%20%20%5B03%5D%20%20MIFA%20t.me%2Frjsxrd
+vless://9beef3b2-5749-4529-a91a-29af1c043d6b@nl2.panel.cleanersaz.help:4443?encryption=none&security=tls&sni=nl2.panel.cleanersaz.help&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#[436ms Нидерланды NL 🇳🇱 @vlesstrojan]%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20759359%20t.me%2Frjsxrd
+vless://d511e429-e32b-46a7-ac07-a0fffa9b634c@46.149.71.46:443?flow=xtls-rprx-vision&fp=edge&headertype=none&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=0123456789abcdef&sni=www.avito.ru&type=tcp#138.%20VLESS%20%7C%20SNI%3A%20www.avito.ru%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?type=grpc&security=reality&fp=chrome&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87&sni=5post-gate.x5.ru#%20t.me%2Frjsxrd
+vless://d511e429-e32b-46a7-ac07-a0fffa9b634c@46.149.71.46:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=0123456789abcdef&sni=www.avito.ru&fp=edge&alpn=http/1.1&headerType=none#145.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20www.avito.ru%20%7C%20TG%3A%20%40wlrustg%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20245373%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?type=grpc&security=reality&encryption=none&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&fp=chrome&sni=5post-gate.x5.ru&sid=1fad87#%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20230048%20t.me%2Frjsxrd
+vless://9beef3b2-5749-4529-a91a-29af1c043d6b@217.16.29.23:7443?encryption=none&type=tcp&security=tls&fp=chrome&sni=ru5.cleanersaz.help#4Jadi-8595%20t.me%2Frjsxrd
+vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&sid=deadbeef&type=grpc&authority=&serviceName=GrpcFuckRKN&mode=gun#Full #048 @FreeCFGHub%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFBsSVZ1Ulo2VUp5YXBWRGVUKytsN2ZZQzB1b3dYSkZsYjlxaG50QWQ0PUAxNTQuMTguMjM5LjEyNjozNzQyNQ==#0034%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80%20%7C%20WL%20%7C%20%40freeinternet_byMygalaru%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20829834%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20600716%20t.me%2Frjsxrd
+vless://9beef3b2-5749-4529-a91a-29af1c043d6b@nl2.panel.cleanersaz.help:4443?encryption=none&security=tls&sni=nl2.panel.cleanersaz.help&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D%20t.me%2Frjsxrd
+vless://eb3fe4a6-831c-5153-9493-5d97b28276f7@51.250.106.197:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=gLwECcibrJ-wErHzfYbPzMDVu6960VNuXUhjOQ3rUQk#[340ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+vless://9beef3b2-5749-4529-a91a-29af1c043d6b@nl2.panel.cleanersaz.help:4443?alpn=h2%2Chttp%2F1.1&fp=chrome&headertype=none&security=tls&sni=nl2.panel.cleanersaz.help&type=tcp#[241ms Нидерланды NL 🇳🇱 @vlesstrojan]%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NmlBUFVIeXlBM1l4QmIzRG1sb1R1QXJNMElpUGVZMkhDb0gzbUA5Mi4xMTguMTEyLjIwMzo0MTM0OA==#%F0%9F%87%BA%F0%9F%87%B8%20%5BSS%5D%20%D0%A1%D0%A8%D0%90%20%233609%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+vless://rootface@216.234.141.24:443?type=tcp&security=reality&sni=blog.api.www.cloudflare.com&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&flow=&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D%20t.me%2Frjsxrd
+vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@204.11.2.30:7443?type=tcp&headerType=none&security=reality&encryption=none&sni=stackoverflow.com&fp=firefox&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%AD%20%20Switzerland%20%20%5B01%5D%20%20MIFA%20t.me%2Frjsxrd
+vless://0dc3fe97-73e3-4cc2-89a7-331e66540365@cdn-a9027cc2.glomedia-cdn.com:2053?type=grpc&headerType=none&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=sOTlswV3fg3MBJSiQek_a2fMs824tGNRFNRdQVYu1R8&sid=ef96a8323b38a60e&serviceName=grpc#%F0%9F%87%BA%F0%9F%87%B8%20%20USA%20%20%5B02%5D%20%20MIFA%20t.me%2Frjsxrd
+vless://9beef3b2-5749-4529-a91a-29af1c043d6b@nl2.panel.cleanersaz.help:4443?encryption=none&security=tls&sni=nl2.panel.cleanersaz.help&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#[349ms Нидерланды NL 🇳🇱 @vlesstrojan]%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20727997%20t.me%2Frjsxrd
+trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&sni=172.237.145.189&fp=chrome&headerType=none&allowInsecure=0&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%5BTR%5D%20%D0%A1%D0%A8%D0%90%20%233843%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@151.242.191.161:443?security=reality&encryption=none&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=www.samsung.com&sid=a1b2c3d4#🇷🇴 БС [@VSPBOOST] 🏳️%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20570282%20t.me%2Frjsxrd
+vless://cc1c6c8a-91ee-4ed6-9d42-d63510bb1190@83.229.14.131:58888?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20Латвия%20[🏳️LTE]%20|%20🥭🔥%20t.me%2Frjsxrd
+vless://9beef3b2-5749-4529-a91a-29af1c043d6b@217.16.29.23:7443?encryption=none&type=tcp&security=tls&fp=chrome&sni=ru5.cleanersaz.help#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20282911%20t.me%2Frjsxrd
+vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?allow_insecure=0&fp=chrome&security=tls&sni=proxy.wastech.org#[2215ms US US  @vlesstrojan]%20t.me%2Frjsxrd
+vless://9beef3b2-5749-4529-a91a-29af1c043d6b@217.16.29.23:7443?encryption=none&type=tcp&security=tls&fp=chrome&sni=ru5.cleanersaz.help#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20798189%20t.me%2Frjsxrd
+vless://9beef3b2-5749-4529-a91a-29af1c043d6b@nl2.panel.cleanersaz.help:4443?encryption=none&security=tls&sni=nl2.panel.cleanersaz.help&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#[332ms Нидерланды NL 🇳🇱 @vlesstrojan]%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20528806%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20610831%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20562804%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?type=grpc&security=reality&encryption=none&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&fp=chrome&sni=5post-gate.x5.ru&sid=1fad87#20.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20t.me%2Frjsxrd
+vless://abb8ca6f-a049-4c6d-9780-70624c476a0d@85.198.85.193:49423?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=www.sony.com&pbk=g2iGrP41UeFpnaFa_NtNSV89i4QoYWKXaJwgvgg_31k&sid=e6bb2b5c0ab6fd47#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%E2%80%94%20%2345%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#🇷🇺 222 - RU - VLESS/GRPC/REALITY/PBK/SID/UTLS - 46852%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20136529%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20369699%20t.me%2Frjsxrd
+vless://9beef3b2-5749-4529-a91a-29af1c043d6b@217.16.29.23:7443?encryption=none&type=tcp&security=tls&fp=chrome&sni=ru5.cleanersaz.help#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20836050%20t.me%2Frjsxrd
+vless://9beef3b2-5749-4529-a91a-29af1c043d6b@nl2.panel.cleanersaz.help:4443?encryption=none&security=tls&sni=nl2.panel.cleanersaz.help&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#[351ms Нидерланды NL 🇳🇱 @vlesstrojan]%20t.me%2Frjsxrd
+vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20361886%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOVmN3OU9UR3dtVGhXbWhzMXVoN3JySUpjVno3bG45NmlmWVppdjR6c1d2VG9UamdAMTA5LjEwNC4xNTUuNDU6NDEzNDg=#%F0%9F%87%A7%F0%9F%87%B7%20%5BSS%5D%20%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F%20%239448%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+vless://cc1c6c8a-91ee-4ed6-9d42-d63510bb1190@83.229.14.131:58888?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%5BVL%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%237656%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&sni=172.237.145.189&fp=chrome&headerType=none&allowInsecure=0&type=tcp#🇺🇸 Join+Telegram:@SolVPN 🇺🇸%20t.me%2Frjsxrd
+vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=69565ce3109804e7813f98ee.mmdbay.blog&path=/graphql&sni=69565ce3109804e7813f98ee.mmdbay.blog&fp=chrome&alpn=h2,http/1.1#%E7%91%9E%E5%A3%AB_052920006%20t.me%2Frjsxrd
+vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@104.18.139.67:443?path=/ws&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=alphacdn.alphashops.shop&fp=chrome&type=ws&allowInsecure=0&sni=alphacdn.alphashops.shop#CF%E4%B8%AD%E8%BD%AC_0529202057%20t.me%2Frjsxrd
+vless://3ea2d8f2-12c1-4189-8cc5-91d0ee9f5ca0@185.228.232.150:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&sid=a1b2c3d4e5f6&sni=queuev4.vk.com#[1582ms Финляндия FI 🇫🇮 @vlesstrojan]%20t.me%2Frjsxrd
+vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@104.168.30.161:443?encryption=none&security=tls&sni=proxy.wastech.org&insecure=0&allowInsecure=0&type=tcp&headerType=none#Full #046 @FreeCFGHub%20t.me%2Frjsxrd
+vless://e737e2e7-04bc-477f-8211-dc0b1354168f@84.201.179.200:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=AYWvVCObGJ_5TnNMGj4z_UDSDzMJ3IcoRgIBCAeUWFs#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA%20t.me%2Frjsxrd
+vless://cc1c6c8a-91ee-4ed6-9d42-d63510bb1190@83.229.14.131:58888?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#[345ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+vless://cc1c6c8a-91ee-4ed6-9d42-d63510bb1190@83.229.14.131:58888?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&sid=6ba85179e30d4fc2#🇱🇻 Latvia | Sia Nano IT 1%20t.me%2Frjsxrd
+vless://3ea2d8f2-12c1-4189-8cc5-91d0ee9f5ca0@185.228.232.150:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&sid=a1b2c3d4e5f6&sni=queuev4.vk.com#[1040ms Финляндия FI 🇫🇮 @vlesstrojan]%20t.me%2Frjsxrd
+trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8F%B0%E6%B9%BE%2008%20t.me%2Frjsxrd
+vless://cc1c6c8a-91ee-4ed6-9d42-d63510bb1190@83.229.14.131:58888?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&sid=6ba85179e30d4fc2#🇺🇸 350 - US - VLESS/REALITY/PBK/SID/VISION/UTLS - 58888%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMbDZjWWZYTTVEelFiZHRNTWI3MkFfanFWbk5salUzeXFlQDE0OS4xMDQuMTA5Ljc0OjIxMjcz#%F0%9F%87%B1%F0%9F%87%BA%20%5BSS%5D%20%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3%20%2310143%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+vless://e737e2e7-04bc-477f-8211-dc0b1354168f@84.201.179.200:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=AYWvVCObGJ_5TnNMGj4z_UDSDzMJ3IcoRgIBCAeUWFs#[2471ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+vless://3ea2d8f2-12c1-4189-8cc5-91d0ee9f5ca0@185.228.232.150:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&sni=queuev4.vk.com&sid=a1b2c3d4e5f6# By EbraSha%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFBsSVZ1Ulo2VUp5YXBWRGVUKytsN2ZZQzB1b3dYSkZsYjlxaG50QWQ0PUAxNTQuMTguMjM5LjEyNjozNzQyNQ==#%F0%9F%87%B8%F0%9F%87%AC%20%5BSS%5D%20%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80%20%239365%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?security=tls&sni=proxy.wastech.org&type=tcp#[335ms US US  @vlesstrojan]%20t.me%2Frjsxrd
+vless://21f1af13-f6e9-4483-8a17-a521a665b335@germany.samanidempire.org:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=germany.samanidempire.org&path=/reteweef&fp=chrome&alpn=h2,http/1.1#[1115ms Германия DE 🇩🇪 @vlesstrojan]%20t.me%2Frjsxrd
+vless://21f1af13-f6e9-4483-8a17-a521a665b335@germany.samanidempire.org:443?path=/reteweef&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=germany.samanidempire.org&fp=chrome&type=ws&allowInsecure=0#[1260ms Германия DE 🇩🇪 @vlesstrojan]%20t.me%2Frjsxrd
+socks5://123:123@47.239.105.135:3060#🇭🇰HK_@WangCai_8
