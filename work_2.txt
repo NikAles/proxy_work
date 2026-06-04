@@ -1,2 +1,2 @@
 #profile-update-interval: 1
-
+vlesфs://eф9d4780e-6638-4f8c-9779-49dd2e2ec980@s66150.cdn.ngenix.net:443?encryption=none&security=tls&type=ws&sni=s66150.cdn.ngenix.net&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Fapi%2Fuser&host=s66150.cdn.ngenix.net#%F0%9F%87%AA%F0%9F%87%BA%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%F0%9F%8F%B3%EF%B8%8F%20%5BLTE%2F4G%5D
