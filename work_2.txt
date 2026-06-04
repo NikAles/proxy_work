@@ -1,1 +1,116 @@
 
+#profile-update-interval: 1
+{
+    "dns": {
+        "servers": [
+            "1.1.1.1",
+            "1.0.0.1"
+        ]
+    },
+    "inbounds": [
+        {
+            "listen": "127.0.0.1",
+            "port": 10808,
+            "protocol": "socks",
+            "settings": {
+                "udp": true
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "socks"
+        },
+        {
+            "listen": "127.0.0.1",
+            "port": 10809,
+            "protocol": "http",
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "enabled": true
+            },
+            "tag": "http"
+        }
+    ],
+    "meta": null,
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "s66150.cdn.ngenix.net",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "e9d4780e-6638-4f8c-9779-49dd2e2ec980"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "alpn": [
+                        "h3",
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "fingerprint": "firefox",
+                    "serverName": "s66150.cdn.ngenix.net"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "s66150.cdn.ngenix.net"
+                    },
+                    "path": "/api/user"
+                }
+            },
+            "tag": "proxy"
+        },
+        {
+            "protocol": "freedom",
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "tag": "block"
+        }
+    ],
+    "remarks": "🇪🇺 ОБХОД 🏳️ [LTE/4G]",
+    "routing": {
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "outboundTag": "direct",
+                "protocol": [
+                    "bittorrent"
+                ]
+            },
+            {
+                "ip": [
+                    "geoip:private"
+                ],
+                "outboundTag": "direct"
+            },
+            {
+                "domain": [
+                    "geosite:private"
+                ],
+                "outboundTag": "direct"
+            }
+        ]
+    }
+}
